@@ -1,4 +1,5 @@
 miosz was here
+once more
 # Stibo cloud test automation interview task
 
 This is template for coding task to be done prior interview
